@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "sanunu-blog",
+    "slug": "sanunu-blog",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
